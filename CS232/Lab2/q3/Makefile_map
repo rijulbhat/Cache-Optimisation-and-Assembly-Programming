@@ -1,0 +1,7 @@
+GHDL=ghdl
+FLAGS="--std=08"
+
+all:
+	$(GHDL) -a $(FLAGS) -fsynopsys map.vhd map_test.vhd
+	$(GHDL) -e $(FLAGS) -fsynopsys map_test
+	$(GHDL) -r $(FLAGS) -fsynopsys map_test --stop-time=10ns

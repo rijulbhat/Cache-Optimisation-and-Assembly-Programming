@@ -1,0 +1,89 @@
+  C  
+  C d  
+  C D  
+  C e  
+  C E  
+  C F  
+  C e g  
+  C E g  
+  C M  
+  C F g  
+  C m  
+  C s  
+  C 7  
+  C 7  
+  C M A B  
+  C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C  
+  C d C d C d C d C d C d C d C d C d C d C d C d C d C d C d C d C d C d  
+  C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D  
+  C e C e C e C e C e C e C e C e C e C e C e C e  
+  C E C E C E C E C E C E C E C E C E C E C E C E  
+  C F C F C F C F C F C F C F C F C F C F C F C F  
+  C e g  M C e g  M C e g  M C e g  M C e g  
+  C E g C E g C E g C E g C E g C E g C E g C E g C E g  
+  C M C M C M C M C M C M C M C M C M  
+  C F g  F g  F g  F g  F g  F g  F g  F g  F g  
+  C m C m C m C m C m C m C m C m C m  
+  C s C s C s C s C s C s C s C s C s  
+  C 7 C 7 C 7 C 7 C 7 C 7 C 7 c  
+  C 7 C 7 C 7 C 7 C 7 C 7 C 7 C  
+  C M A B C M A B C M A B C M A B C M A B C M A B C M A B C 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

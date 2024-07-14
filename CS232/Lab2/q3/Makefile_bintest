@@ -1,0 +1,7 @@
+GHDL=ghdl
+FLAGS="--std=08"
+
+all:
+	$(GHDL) -a $(FLAGS) -fsynopsys BintoDec.vhd Bintest.vhd
+	$(GHDL) -e $(FLAGS) -fsynopsys Bintest
+	$(GHDL) -r $(FLAGS) -fsynopsys Bintest --stop-time=10ns

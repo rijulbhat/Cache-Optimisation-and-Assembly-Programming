@@ -1,0 +1,22 @@
+v 4
+file . "q1_or.vhd" "1a9af0fa8b14741a359077995c61c435c59972df" "20230918162633.621":
+  entity or_gate at 1( 0) + 0 on 57;
+  architecture behaviour of or_gate at 10( 147) + 0 on 58;
+file . "q1_enc4x2_tb.vhd" "fdaf3954757a1ffb4f1e26ad010eb81276983457" "20230918161846.730":
+  entity test_encoder at 1( 0) + 0 on 23;
+  architecture tb of test_encoder at 7( 80) + 0 on 24;
+file . "q1_enc4x2.vhd" "0cc46c77fea280caebf5232b9984e3005e18b0dc" "20230918161846.726":
+  entity encoder4x2 at 1( 0) + 0 on 19;
+  architecture behaviour of encoder4x2 at 9( 166) + 0 on 20;
+file . "q1_mux4x1.vhd" "56c9c299f758d33a48f90f094034374274351637" "20230918162633.620":
+  entity mux4x1 at 1( 0) + 0 on 55;
+  architecture behaviour of mux4x1 at 10( 184) + 0 on 56;
+file . "q1_not.vhd" "dcade7f4ffa4260d912235b0dbeaae4cdac9fcf3" "20230918162633.622":
+  entity not_gate at 1( 0) + 0 on 59;
+  architecture behaviour of not_gate at 9( 125) + 0 on 60;
+file . "q1_and.vhd" "8cc0dc4da8b270441454f3885102379c6b189255" "20230918162633.624":
+  entity and_gate at 1( 0) + 0 on 61;
+  architecture behaviour of and_gate at 10( 148) + 0 on 62;
+file . "q1_mux4x1_tb.vhd" "3576eb2f187ca36c251264b6c7616c70af85c716" "20230918162633.625":
+  entity test_mux at 1( 0) + 0 on 63;
+  architecture tb of test_mux at 7( 76) + 0 on 64;

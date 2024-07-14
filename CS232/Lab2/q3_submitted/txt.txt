@@ -1,0 +1,30 @@
+C
+C d
+C D 
+c # e
+c # E
+c # F
+c # e g
+c # E g
+c # E G 
+c # F g
+c # e G
+c # F G
+c # E G b
+C E G A #
+C E G A B
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C d C d C d C d C d C d C d C d C d C d C d C d C d C d C d C d C d C d 
+C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D C D  
+c # e c # e c # e c # e c # e c # e c # e c # e c # e c # e c # e c # e 
+c # E c # E c # E c # E c # E c # E c # E c # E c # E c # E c # E c # E 
+c # F c # F c # F c # F c # F c # F c # F c # F c # F c # F c # F c # F 
+c # e g c # e g c # e g c # e g c # e g c # e g c # e g c # e g c # e g 
+c # E g c # E g c # E g c # E g c # E g c # E g c # E g c # E g c # E g 
+c # E G c # E G c # E G c # E G c # E G c # E G c # E G c # E G c # E G 
+c # F g c # F g c # F g c # F g c # F g c # F g c # F g c # F g c # F g 
+c # e G c # e G c # e G c # e G c # e G c # e G c # e G c # e G c # e G 
+c # F G c # F G c # F G c # F G c # F G c # F G c # F G c # F G c # F G 
+c # E G b c # E G b c # E G b c # E G b c # E G b c # E G b c # E G b c
+C E G A # C E G A # C E G A # C E G A # C E G A # C E G A # C E G A # C
+C E G A B C E G A B C E G A B C E G A B C E G A B C E G A B C E G A B C
